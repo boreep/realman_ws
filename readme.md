@@ -1,7 +1,7 @@
 ### 0.gitee令牌
 仓库令牌：e66317743ba8c43c34921ceeb92d6eef
 
-    git clone https://boreep:e66317743ba8c43c34921ceeb92d6eef@gitee.com/boreep/rm65_src.git -b unauthenticated
+    git clone https://github.com/boreep/realman_ws.git
 
 ### 1.主要移动指令
 移动指令分为`MOVEJ`、`MOVEJ_P`、`MOVEL`、`MOVEC`、`MOVES`五种运动类型。
